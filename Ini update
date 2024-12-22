@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" tvg-name="HBO" ,HBO (non)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" tvg-name="HBO HITS" ,HBO HITS (non)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" tvg-name="HBO SIGNATURE" ,HBO SIGNATURE (non)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" tvg-name="HBO FAMILY" ,HBO FAMILY (non)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" tvg-name="CINEMAX" ,CINEMAX (non)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-family-id.png" tvg-id="MYFAMILY" ,My Family Channel (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" tvg-id="MYCINEMA" ,My Cinema (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-asia-id.png" tvg-id="MYCINEMA ASIA" ,My Cinema Asia (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-europe.ch.png" tvg-id="MYCINEMA EUROPE" ,My Cinema Europe (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png" tvg-id="GALAXY" ,GALAXY (i)
+https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" tvg-id="GALAXY PREMIUM" ,GALAXY PREMIUM (i)
+https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" tvg-id="HITS" ,HITS (non)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/94.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" tvg-id="HITS MOVIES" ,HITS MOVIES (non)
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_158.png" tvg-id="TVN" ,TVN (i)
+https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" tvg-id="TVN MOVIES" ,TVN MOVIES (i)
+https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" tvg-id="K+" , K+ (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs-korea-kr.png" tvg-id="KBS" , KBS Korea (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kbs_world_kr.png" tvg-id="KBS" , KBS World (d)
+http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_World_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-in.png" tvg-id="ONE" ,ONE (i)
+https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" tvg-id="IMC" ,IMC (i)
+https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m0IINZfMbabHeHw7WwH1l5nU8CkC_qOA_Rj6IYX4cVzw=s900-c-k-c0x00ffffff-no-rj" tvg-id="FLIK" ,FLIK (i)
+https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8
+#EXTINF:-1 group-title="MOVIES UPDATE SOURCE" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bioskop_id.png" tvg-id="BISOKOP INDONESIA" ,BIOSKOP INDONESIA (i)
+https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-my.png" tvg-id="ASTRO SPORT 1" ,Astro Premier League (wani)
+http://newlife3.wanicelife.com:8880/D12m2806/32723612/1722
+#EXTINF:-1 group-title="ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png" tvg-id="ASTRO SPORT 2" ,Astro Premier League 2 (wani)
+http://newlife3.wanicelife.com:8880/D12m2806/32723612/1721
+#EXTINF:-1 group-title="ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png" tvg-id="ASTRO SPORT 3" ,Astro Grandstand (wani)
+http://newlife3.wanicelife.com:8880/D12m2806/32723612/1720
+#EXTINF:-1 group-title="ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-football-my.png" tvg-id="ASTRO SPORT 4" ,Astro Football (wani)
+http://newlife3.wanicelife.com:8880/D12m2806/32723612/1719
+#EXTINF:-1 group-title="ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-badminton-my.png" tvg-id="ASTRO SPORT 5" ,Astro Badminton (wani)
+http://newlife3.wanicelife.com:8880/D12m2806/32723612/71105
+#EXTINF:-1 group-title="ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-cricket-my.png" tvg-id="ASTRO SPORT 6" ,Astro Cricet (wani)
+http://newlife3.wanicelife.com:8880/D12m2806/32723612/71109
+#EXTINF:-1 group-title="ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-sports-plus-my.png" tvg-id="ASTRO SPORT 7" ,Astro Sports Plus (wani)
+http://newlife3.wanicelife.com:8880/D12m2806/32723612/71146
