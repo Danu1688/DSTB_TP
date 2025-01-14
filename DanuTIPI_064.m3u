@@ -4,405 +4,90 @@
 url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzfK0nlOpc8ADUaom1Kh8poh2qgaB6XH3XomTujBIKMTVWRpFYzl6ZIcQVRSD6OE2XKVjdawI6F4hWm_TVKyuj0SdLaDy7BZQf6aRaqmAJQJR4rAuFtk-ORBlyPtfrvRsbNLJRimOFXuM0q7EJ1vhyphenhyphen4PPuJrE4tu83WPlOQTn5KQFLk-_I1QY6PWSbVDQ/s640/1000027562.jpg", group-title="[LIVE EVENT]", BALI UNITED馃啔PERSIK KEDIRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c63ef11648fcdd4ad4ea91c1effa91ba:8ecf85e6b1c663162e3f584d111ea30e
-https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17622
-
-
-#EXTINF:-1 tvg-id="13318476" tvg-name="3783" tvg-logo="https://api.sofascore.app/api/v1/event/13318476/share-image/16x9" group-title="[LIVE EVENT]",REAL MADRID VS BARCELONA [SUPERCOPA DE ESPAñA] - 02:00 - (13/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
-
-#EXTINF:-1 tvg-id="13318476" tvg-name="3784" tvg-logo="https://api.sofascore.app/api/v1/event/13318476/share-image/16x9" group-title="[LIVE EVENT]",REAL MADRID VS BARCELONA [SUPERCOPA DE ESPAñA] - 02:00 - (13/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
-
-#EXTINF:-1 tvg-id="13318476" tvg-name="3507" tvg-logo="https://api.sofascore.app/api/v1/event/13318476/share-image/16x9" group-title="[LIVE EVENT]",REAL MADRID VS BARCELONA [SUPERCOPA DE ESPAñA] - 02:00 - (13/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
-https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
-
-#EXTINF:-1 tvg-id="13318476" tvg-name="5848" tvg-logo="https://api.sofascore.app/api/v1/event/13318476/share-image/16x9" group-title="[LIVE EVENT]",REAL MADRID VS BARCELONA [SUPERCOPA DE ESPAñA] - 02:00 - (13/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-022/stream.mpd
-
-
-#EXTINF:-1 tvg-id="12437823" tvg-name="3785" tvg-logo="https://api.sofascore.app/api/v1/event/12437823/share-image/16x9" group-title="[LIVE EVENT]",LAS PALMAS VS GETAFE [LALIGA] - 20:00 - (12/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
-#EXTINF:-1 tvg-id="12437804" tvg-name="3785" tvg-logo="https://api.sofascore.app/api/v1/event/12437804/share-image/16x9" group-title="[LIVE EVENT]",ATL. MADRID VS OSASUNA [LALIGA] - 22:15 - (12/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
-#EXTINF:-1 tvg-id="12504436" tvg-name="430" tvg-logo="https://api.sofascore.app/api/v1/event/12504436/share-image/16x9" group-title="[LIVE EVENT]",GENOA VS PARMA [SERIE A] - 18:30 - (12/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-
-#EXTINF:-1 tvg-id="12504432" tvg-name="430" tvg-logo="https://api.sofascore.app/api/v1/event/12504432/share-image/16x9" group-title="[LIVE EVENT]",VENEZIA VS INTER [SERIE A] - 21:00 - (12/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-
-#EXTINF:-1 tvg-id="12504438" tvg-name="3784" tvg-logo="https://api.sofascore.app/api/v1/event/12504438/share-image/16x9" group-title="[LIVE EVENT]",BOLOGNA VS ROMA [SERIE A] - 00:00 - (13/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
-
-#EXTINF:-1 tvg-id="12504433" tvg-name="3785" tvg-logo="https://api.sofascore.app/api/v1/event/12504433/share-image/16x9" group-title="[LIVE EVENT]",NAPOLI VS VERONA [SERIE A] - 02:45 - (13/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
-
-#EXTINF:-1 tvg-id="12504433" tvg-name="5430" tvg-logo="https://api.sofascore.app/api/v1/event/12504433/share-image/16x9" group-title="[LIVE EVENT]",NAPOLI VS VERONA [SERIE A] - 02:45 - (13/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="12450949" tvg-name="432" tvg-logo="https://api.sofascore.app/api/v1/event/12450949/share-image/16x9" group-title="[LIVE EVENT]",PSG VS SAINT-ÉTIENNE [LIGUE 1] - 02:45 - (13/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-
-#EXTINF:-1 tvg-id="13189414" tvg-name="3783" tvg-logo="https://api.sofascore.app/api/v1/event/13189414/share-image/16x9" group-title="[LIVE EVENT]",TAMWORTH VS TOTTENHAM  [FA CUP] - 19:30 - (12/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
-
-#EXTINF:-1 tvg-id="13189403" tvg-name="3783" tvg-logo="https://api.sofascore.app/api/v1/event/13189403/share-image/16x9" group-title="[LIVE EVENT]",ARSENAL VS MAN UTD [FA CUP] - 22:00 - (12/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
-
-#EXTINF:-1 tvg-id="13189394" tvg-name="433" tvg-logo="https://api.sofascore.app/api/v1/event/13189394/share-image/16x9" group-title="[LIVE EVENT]",CRYSTAL PALACE VS STOCKPORT [FA CUP] - 22:00 - (12/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
-
-#EXTINF:-1 tvg-id="13189411" tvg-name="432" tvg-logo="https://api.sofascore.app/api/v1/event/13189411/share-image/16x9" group-title="[LIVE EVENT]",IPSWICH VS BRISTOL ROVERS [FA CUP] - 22:00 - (12/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-
-#EXTINF:-1 tvg-id="13189397" tvg-name="3784" tvg-logo="https://api.sofascore.app/api/v1/event/13189397/share-image/16x9" group-title="[LIVE EVENT]",NEWCASTLE VS BROMLEY [FA CUP] - 22:00 - (12/01/2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
-
-#EXTINF:-1 tvg-id="ESP2_HD_HVC" group-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/1258574/images/17693972?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" tvg-logo="https://static3.go3.tv/scale/go3/images/epg_3c766c936679d5d3a26bdd0584f4c2ec.jpeg?dsth=1080&dstw=1920&srcmode=0&quality=65&srcx=0&srcy=0&srcw=1/1&srch=1/1&type=1" group-title="GO3 SPORTS",LIVE:Adelboden 2024/2025 - Giant Slalom 1st Run|16:30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=beded6e775a04b0bac876c023e14bab7:96f32a99591584f2194f5162ead8f963
-https://cdnlb.tvplayhome.lt/live/eds/ESP2_HD_HVC/GO3_LIVE_DASH_AVC/ESP2_HD_HVC.mpd
-
-#EXTINF:-1 tvg-id="Setanta_EE_HD" group-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/1258574/images/17693972?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" tvg-logo="https://static3.go3.tv/scale/go3/images/epg_0d78301905accde59e5188730066eba8.jpeg?dsth=1080&dstw=1920&srcmode=0&quality=65&srcx=0&srcy=0&srcw=1/1&srch=1/1&type=1" group-title="GO3 SPORTS",LIVE:FA Cup. Liverpool vs Accrington|16:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f283293f48534648b74ddeda0cd283dd:baaa81b9144162d81da11d4a7e302017
-https://cdnlb.tvplayhome.lt/live/eds/Setanta_EE_HD/GO3_LIVE_DASH/Setanta_EE_HD.mpd
-
-#EXTINF:-1 tvg-id="ESP_HD_HVC" group-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/1258574/images/17693972?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" tvg-logo="https://static3.go3.tv/scale/go3/images/epg_73d74d63e51116c1e17009dae34ee93e.jpeg?dsth=1080&dstw=1920&srcmode=0&quality=65&srcx=0&srcy=0&srcw=1/1&srch=1/1&type=1" group-title="GO3 SPORTS",LIVE:Tennis: Australian Open|15:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=beded6e775a04b0bac876c023e14bab7:96f32a99591584f2194f5162ead8f963
-https://cdnlb.tvplayhome.lt/live/eds/ESP_HD_HVC/GO3_LIVE_DASH_AVC/ESP_HD_HVC.mpd
-
-#EXTINF:-1 tvg-id="TV3_Sport_OPEN_HD" group-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/1258574/images/17693972?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" tvg-logo="https://static3.go3.tv/scale/go3/images/epg_f970d377624488354bb9e437f1acb34c.jpeg?dsth=1080&dstw=1920&srcmode=0&quality=65&srcx=0&srcy=0&srcw=1/1&srch=1/1&type=1" group-title="GO3 SPORTS",LIVE:Bosbsleigh & Skeleton IBSF 25. WC4 St. Moritz 2-Woman Bob H2|16:30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=beded6e775a04b0bac876c023e14bab7:96f32a99591584f2194f5162ead8f963
-https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_OPEN_HD/GO3_LIVE_DASH/TV3_Sport_OPEN_HD.mpd
-
-
-#EXTINF:-1 tvg-id="VIP8" group-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/logos/138/1304?srcx=1&srcy=1&srcw=3358&srch=600&dstw=1366&dsth=244&srcmode=0&quality=80" tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/programme/8723603/images/24239557?dsth=1080&dstw=1920&srcmode=0&quality=65&type=1&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="GO3 EXTRA SPORTS",LIVE:DP World Tour. Team Cup. Day 3|13:30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:e306b8a8662ba9e4359ab635ca18b0cf
-https://cdnlb.tvplayhome.lt/live/eds2/VIP8/GO3_LIVE_DASH_AVC/VIP8.mpd
-
-
-#EXTINF:-1 tvg-id="Setanta_EE_HD" group-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4500868/images/18153975?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" tvg-logo="https://static3.go3.tv/scale/go3/images/epg_0d78301905accde59e5188730066eba8.jpeg?dsth=1080&dstw=1920&srcmode=0&quality=65&srcx=0&srcy=0&srcw=1/1&srch=1/1&type=1" group-title="Setanta Event",LIVE:FA Cup. Liverpool vs Accrington|16:00
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f283293f48534648b74ddeda0cd283dd:baaa81b9144162d81da11d4a7e302017
-https://cdnlb.tvplayhome.lt/live/eds/Setanta_EE_HD/GO3_LIVE_DASH/Setanta_EE_HD.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="MLBB LIVE EVENT" group-tittle="YOUTUBE LIVE EVENT" group-title="YOUTUBE LIVE EVENT",MLBB LIVE EVENT
-https://rocket-tv.online/youtube/yt.m3u8?id=BntCQsWaD-E
-
-#EXTINF:-1 tvg-logo="" tvg-name="DOTA 2 LIVE EVENT" group-tittle="YOUTUBE LIVE EVENT" group-title="YOUTUBE LIVE EVENT",DOTA 2 LIVE EVENT
-https://rocket-tv.online/youtube/yt.m3u8?id=fEG-SSb2BbE
-
-
-
-
-
-
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 YOUTUBE 24/7
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
 
+Nightcore live 
+UCrG8mytOLrC_t5vu7To4ajA
+Anisong 1
+UCR61XV4ROXhkcfLO31hTGuw
+Anisong 2
+UC1oPBUWifc0QOOY8DEKhLuQ
+Dangdut 1
+UCCeApWOD35_SAtUg9_BFoXQ
+Dangdut2
+UCTXOjzi-Ymn7iFMaP8yGLbg
+Dj aris remix
+UCy-w1zOK74F4zWPy1WsZ_Nw
+Dreamy vibe top English song 
+UCEOhpXTO8CwrpkBTxOOu4bw
+Chill radio
+UChs0pSaEoNLV4mevBFGaoKA
 
+#EXTINF:-1 tvg-logo="" tvg-name="Chill radio" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",Chill radio
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UChs0pSaEoNLV4mevBFGaoKA
 
 
 
+#EXTINF:-1 tvg-logo="" tvg-name="Dreamy vibe top English song" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",Dreamy vibe top English song
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCEOhpXTO8CwrpkBTxOOu4bw
 
 
 
 
+#EXTINF:-1 tvg-logo="" tvg-name="Dj aris remix" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",Dj aris remix
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCy-w1zOK74F4zWPy1WsZ_Nw
 
 
 
-#EXTINF:-1 tvg-logo="" tvg-name="LAGU INDONESIA COVER 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",LAGU INDONESIA COVER 2
-https://rocket-tv.online/youtube/yt.m3u8?id=MC7bYuU4RKM
 
-#EXTINF:-1 tvg-logo="" tvg-name="HITS RADIO 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",HITS RADIO 1
-https://rocket-tv.online/youtube/yt.m3u8?id=uNd5kvrGHjk
+#EXTINF:-1 tvg-logo="" tvg-name="Dangdut 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",Dangdut 1
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCCeApWOD35_SAtUg9_BFoXQ
 
-#EXTINF:-1 tvg-logo="" tvg-name="HITS RADIO 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",HITS RADIO 2
-https://rocket-tv.online/youtube/yt.m3u8?id=8M0AvPvPg0A
+#EXTINF:-1 tvg-logo="" tvg-name="Dangdut 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",UCTXOjzi-Ymn7iFMaP8yGLbg
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCTXOjzi-Ymn7iFMaP8yGLbg
 
-#EXTINF:-1 tvg-logo="" tvg-name="HITS RADIO 3" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",HITS RADIO 3
-https://rocket-tv.online/youtube/yt.m3u8?id=_VMVUlp7-I8
 
-#EXTINF:-1 tvg-logo="" tvg-name="CYBER PUNK RADIO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",CYBER PUNK RADIO
-https://rocket-tv.online/youtube/yt.m3u8?id=xulXmZrC9uI
 
-#EXTINF:-1 tvg-logo="" tvg-name="SPININ RECORD RADIO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",SPININ RECORD RADIO
-https://rocket-tv.online/youtube/yt.m3u8?id=xf9Ejt4OmWQ
 
-#EXTINF:-1 tvg-logo="" tvg-name="EDM RADIO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",EDM RADIO
-https://rocket-tv.online/youtube/yt.m3u8?id=sR-sbG98ldM
 
-#EXTINF:-1 tvg-logo="" tvg-name="POP HITS RADIO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",POP HITS RADIO
-https://rocket-tv.online/youtube/yt.m3u8?id=WUVQ0BCmPGM
+#EXTINF:-1 tvg-logo="" tvg-name="Nightcore live" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",Nightcore live
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCrG8mytOLrC_t5vu7To4ajA
 
-#EXTINF:-1 tvg-logo="" tvg-name="SUMMER DANCE RADIO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",SUMMER DANCE RADIO
-https://rocket-tv.online/youtube/yt.m3u8?id=N4nQBDTFxyc
+#EXTINF:-1 tvg-logo="" tvg-name="Anisong 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",Anisong 2
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UC1oPBUWifc0QOOY8DEKhLuQ
 
-#EXTINF:-1 tvg-logo="" tvg-name="KPOP RADIO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",KPOP RADIO
-https://rocket-tv.online/youtube/yt.m3u8?id=JVocS7Yftw8
 
-#EXTINF:-1 tvg-logo="" tvg-name="LATINO SONG RADIO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",LATINO SONG RADIO
-https://rocket-tv.online/youtube/yt.m3u8?id=dE4xDQbS-9c
 
-#EXTINF:-1 tvg-logo="" tvg-name="PARTY MIX RADIO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",PARTY MIX RADIO
-https://rocket-tv.online/youtube/yt.m3u8?id=03mBq40zQdA
+#EXTINF:-1 tvg-logo="" tvg-name="Anisong 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",Anisong 1
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCR61XV4ROXhkcfLO31hTGuw
 
-#EXTINF:-1 tvg-logo="" tvg-name="BREAKBEAT 5" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 5
-https://rocket-tv.online/youtube/yt.m3u8?id=5TXGWp3W5ZM
 
-#EXTINF:-1 tvg-logo="" tvg-name="00's SONG MIX" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",00's SONG MIX
-https://rocket-tv.online/youtube/yt.m3u8?id=IA92GzQWw0w
-
-#EXTINF:-1 tvg-logo="" tvg-name="DARK TECHNO MIX RADIO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",DARK TECHNO MIX RADIO
-https://rocket-tv.online/youtube/yt.m3u8?id=hyIfg5Q7vBU
-
-#EXTINF:-1 tvg-logo="" tvg-name="CLUB MIX MASHUP RADIO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",CLUB MIX MASHUP RADIO
-https://rocket-tv.online/youtube/yt.m3u8?id=V7bIBUD1yDA
-
-#EXTINF:-1 tvg-logo="" tvg-name="BREAKBEAT 6" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 6
-https://rocket-tv.online/youtube/yt.m3u8?id=3gZZApCcuYc
-
-#EXTINF:-1 tvg-logo="" tvg-name="BREAKBEAT 7" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 7
-https://rocket-tv.online/youtube/yt.m3u8?id=Oi4ep7_E5fw
-
-#EXTINF:-1 tvg-logo="" tvg-name="BREAKBEAT 9" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 9
-https://rocket-tv.online/youtube/yt.m3u8?id=IEyCjhVbfms
-
-#EXTINF:-1 tvg-logo="" tvg-name="BREAKBEAT 8" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 8
-https://rocket-tv.online/youtube/yt.m3u8?id=ja0Dt_jQ_7s
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="Jazz LoFi" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",Jazz LoFi
-https://rocket-tv.online/youtube/yt.m3u8?id=HuFYqnbVbzY
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="LAGU INDONESIA COVER 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",LAGU INDONESIA COVER 1
-https://rocket-tv.online/youtube/yt.m3u8?id=9ibMPBTeyS8
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="AQUARIUS MUSIC INDO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",AQUARIUS MUSIC INDO
-https://rocket-tv.online/youtube/yt.m3u8?id=dg5tyFRkyX8
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="Jazz LoFi" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",Jazz LoFi
-https://rocket-tv.online/youtube/yt.m3u8?id=HuFYqnbVbzY
-
-#EXTINF:-1 tvg-logo="" tvg-name="NIGHTCORE MUSIC" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",NIGHTCORE MUSIC
-https://rocket-tv.online/youtube/yt.m3u8?id=WXZxjn7wysA
-
-#EXTINF:-1 tvg-logo="" tvg-name="ANISONG 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",ANISONG 1
-https://rocket-tv.online/youtube/yt.m3u8?id=4FBW3mkdKOs
-
-#EXTINF:-1 tvg-logo="" tvg-name="Jazz LoFi" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",Jazz LoFi
-https://rocket-tv.online/youtube/yt.m3u8?id=HuFYqnbVbzY
-
-#EXTINF:-1 tvg-logo="" tvg-name="JAPAN LoFi" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",JAPAN LoFi
-https://rocket-tv.online/youtube/yt.m3u8?id=yr9ZxQaWkqs
-
-#EXTINF:-1 tvg-logo="" tvg-name="NIGHTCORE 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",NIGHTCORE 2
-https://rocket-tv.online/youtube/yt.m3u8?id=ueG3Ul8OhQY
-
-#EXTINF:-1 tvg-logo="" tvg-name="SADBOYS RADIO" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",SAD BOYS RADIO
-https://rocket-tv.online/youtube/yt.m3u8?id=EVTKn1w6HSs
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="TOKYO NIGHT LO FI RADIO" group-tittle="YOUTUBE 24/7" group-title="TOKYO NIGHT LO FI RADIO
-https://rocket-tv.online/youtube/yt.m3u8?id=Lcdi9O2XB4E
-
-#EXTINF:-1 tvg-logo="" tvg-name="QUR'AN BY LOFI HIJAB GIRL" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",QURAN BY LOFI HIJAB GIRL
-https://rocket-tv.online/youtube/yt.m3u8?id=EH9YsVSQ5oo
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="PARTY MIX By KnightEDM" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",PARTY MIX By KnightEDM
-https://rocket-tv.online/youtube/yt.m3u8?id=WrshMGRm2e0
-
-#EXTINF:-1 tvg-logo="" tvg-name="MURROTAL 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",MURROTAL 1
-https://rocket-tv.online/youtube/yt.m3u8?id=TAqlX6RH-Y4
-
-#EXTINF:-1 tvg-logo="" tvg-name="MURROTAL 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",MURROTAL 2
-https://rocket-tv.online/youtube/yt.m3u8?id=fNbyVsEogG0
-
-#EXTINF:-1 tvg-logo="" tvg-name="MURROTAL 3" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",MURROTAL 3
-https://rocket-tv.online/youtube/yt.m3u8?id=mTCwx0_PxjI
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="MURROTAL 4" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",MURROTAL 4
-https://rocket-tv.online/youtube/yt.m3u8?id=0lStmV1FgPI
-
-#EXTINF:-1 tvg-logo="" tvg-name="24/7 MINECRAFT " group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",24/7 MINECRAFT
-https://rocket-tv.online/youtube/yt.m3u8?id=Wrz6Mwhpm80
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="DNB RADIO 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",DNB RADIO 1
-https://rocket-tv.online/youtube/yt.m3u8?id=Cwq3AFyV044
-
-#EXTINF:-1 tvg-logo="" tvg-name="ROBLOX 24/7" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",ROBLOX 24/7
-https://rocket-tv.online/youtube/yt.m3u8?id=XoiGhNqsvQE
-
-#EXTINF:-1 tvg-logo="" tvg-name="ROBLOX 24/7 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",ROBLOX 24/7 2
-https://rocket-tv.online/youtube/yt.m3u8?id=LGrjTH4qU3w
-
-#EXTINF:-1 tvg-logo="" tvg-name="DANGDUT KOPLO 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",DANGDUT KOPLO 1
-https://rocket-tv.online/youtube/yt.m3u8?id=TwZ5nM14u8s
-
-#EXTINF:-1 tvg-logo="" tvg-name="DANGDUT KOPLO 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",DANGDUT KOPLO 2
-https://rocket-tv.online/youtube/yt.m3u8?id=h3vIt95vvYg
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="KOPLO 3" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",DANGDUT KOPLO 3
-https://rocket-tv.online/youtube/yt.m3u8?id=fy4s8-EAfaM
-
-#EXTINF:-1 tvg-logo="" tvg-name="BREAKBEAT 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 1
-https://rocket-tv.online/youtube/yt.m3u8?id=AHO0prGlz0g
-
-#EXTINF:-1 tvg-logo="" tvg-name="BREAKBEAT 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 2
-https://rocket-tv.online/youtube/yt.m3u8?id=3gZZApCcuYc
-
-#EXTINF:-1 tvg-logo="" tvg-name="BREAKBEAT 3" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT 3
-https://rocket-tv.online/youtube/yt.m3u8?id=3QhTk9Yo8iU
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="ABTV" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",ABTV 
-https://rocket-tv.online/youtube/yt.m3u8?id=CYhGhs0Ismk
-
-
-#EXTINF:-1 tvg-logo="" tvg-name="ARCADE NCS" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",ARCADE NCS
-https://rocket-tv.online/youtube/yt.m3u8?id=7tNtU5XFwrU
 
 #EXTINF:-1 tvg-logo="" tvg-name="NCS" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",NCS
-https://rocket-tv.online/youtube/yt.m3u8?id=oWW5TLrrbNo
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UC_aEa8K-EOJ3D6gOs7HcyNg
 
-#EXTINF:-1 tvg-logo="" tvg-name="AMBIENT RADIO[FOR CAFE]" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",AMBIENT RADIO[FOR CAFE]
-https://rocket-tv.online/youtube/yt.m3u8?id=S_MOd40zlYU
-
-#EXTINF:-1 tvg-logo="" tvg-name="COZY CAFE MUSIC 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",COZY CAFE MUSIC 1
-https://rocket-tv.online/youtube/yt.m3u8?id=jMdiqAzSasI
-
-#EXTINF:-1 tvg-logo="" tvg-name="COZY CAFE MUSIC 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",COZY CAFE MUSIC 2
-https://rocket-tv.online/youtube/yt.m3u8?id=j-tYR6tvtb0
-
-#EXTINF:-1 tvg-logo="" tvg-name="COZY CAFE MUSIC 3" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",COZY CAFE MUSIC 3
-https://rocket-tv.online/youtube/yt.m3u8?id=N_7cSl2oq3o
-
-#EXTINF:-1 tvg-logo="" tvg-name="COZY CAFE MUSIC 4" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",COZY CAFE MUSIC 4
-https://rocket-tv.online/youtube/yt.m3u8?id=MOcNrHj8wW4
+#EXTINF:-1 tvg-logo="" tvg-name="ARCADE NCS" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",ARCADE NCS
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCiJnBO_XuDsi1SSRAmt4n5g
 
 
-#EXTINF:-1 tvg-logo="" tvg-name="FUNKY CAFE MUSIC 1" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",FUNKY CAFE MUSIC 1
-https://rocket-tv.online/youtube/yt.m3u8?id=ZIXUZnzt8e4
+#EXTINF:-1 tvg-logo="" tvg-name="DZIKIR" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",DZIKIR
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCBN9NUto3-HXOh8YlQRjN6g
 
-#EXTINF:-1 tvg-logo="" tvg-name="FUNKY CAFE MUSIC 2" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",FUNKY CAFE MUSIC 2
-https://rocket-tv.online/youtube/yt.m3u8?id=bWUlNCw6WGs
+#EXTINF:-1 tvg-logo="" tvg-name="BREAKBEAT" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",BREAKBEAT
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCiBjOPqgx00o4SfVldEhJHQ
 
 
 
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="" tvg-name="ABTV" group-tittle="YOUTUBE 24/7" group-title="YOUTUBE 24/7",ABTV
+https://youtube.cikgusuraya.workers.dev/index.m3u8?id=UCbKWv2x9t6u8yZoB3KcPtnw
 
 
 
